@@ -15,7 +15,7 @@ public class ShoppingMall1Application {
 
     @GetMapping(value = "/")
     public String HelloWorld(){
-        return "Hello world";
+        return "Hello";
     }
 
 }
