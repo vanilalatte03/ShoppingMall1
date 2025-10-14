@@ -1,4 +1,4 @@
-package com.example.shoppingmall1;
+package com.shoppingmall1;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

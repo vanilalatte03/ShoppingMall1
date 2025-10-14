@@ -1,4 +1,4 @@
-package com.example.shoppingmall1.constant;
+package com.shoppingmall1.constant;
 
 public enum ItemSellStatus {
     SELL, SOLD_OUT
